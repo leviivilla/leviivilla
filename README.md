@@ -1,57 +1,95 @@
-<h1 align="center">Hola 👋, soy Isaac Levi</h1>
-<h3 align="center">Estudiante de Ingeniería en Ciencias de la Computación en la BUAP</h3>
-<p align="center"><b>Desarrollo Full-Stack | Diseño de Sistemas Digitales | Infraestructura de Red</b></p>
+
+
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=280&section=header&text=Isaac%20Levi&fontSize=80&animation=fadeIn&desc=Ingeniería%20en%20Ciencias%20de%20la%20Computación%20|%20BUAP&descSize=20&fontAlignY=38&descAlignY=62" width="100%" alt="Banner Isaac Levi" />
+
+  <br />
+
   <p>
-    <img src="https://komarev.com/ghpvc/?username=leviivilla&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="Vistas del perfil de leviivilla" />
-  </p>
-  <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=leviivilla&margin-w=15" alt="Trofeos de GitHub" />
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=leviivilla&label=Vistas%20del%20perfil&color=0e75b6&style=flat-square" alt="Vistas" />
+    <img src="https://img.shields.io/badge/Status-Estudiante_ICC-blue?style=flat-square&logo=google-scholar&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/Enfoque-Full--Stack_%26_Sistemas-success?style=flat-square" alt="Enfoque" />
   </p>
 </div>
 
-<hr>
+<hr />
 
-<h3 align="left">🛠️ Idiomas y Herramientas:</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" title="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" title="PHP"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" title="MySQL"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" title="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40" title="Matlab"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" title="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40" title="Illustrator"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40" title="Blender"/>
-</p>
+## 👨‍💻 Sobre mí
+Estudiante de **Ingeniería en Ciencias de la Computación** en la **BUAP**. Me especializo en el desarrollo de soluciones Full-Stack escalables y en el diseño de sistemas digitales de alta precisión. Mi formación combina la lógica de software moderno con la rigurosidad de la arquitectura de hardware.
 
-<br>
+---
 
+## 🛠️ Stack Tecnológico (Especialidades)
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h4>💻 Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,js,angular,figma" />
+      <p><small>Interfaces dinámicas y UX/UI</small></p>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h4>⚙️ Backend & Data</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,java,py" />
+      <p><small>Lógica de servidor y BD</small></p>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h4>🔌 Sistemas & Hardware</h4>
+      <img src="https://skillicons.dev/icons?i=c,cpp,matlab,arduino,blender" />
+      <p><small>VHDL, Redes y Modelado 3D</small></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📂 Proyectos Destacados
+<table align="center" width="100%">
+  <tr>
+    <td width="50%">
+      **🚀 EduCursos**<br />
+      Plataforma de e-learning desarrollada con Angular y Node.js. Gestión de usuarios y cursos en tiempo real.
+    </td>
+    <td width="50%">
+      **🏠 Bienes Raíces Crod**<br />
+      Sistema de gestión inmobiliaria con arquitectura de base de datos relacional optimizada.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Estadísticas de GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leviivilla&show_icons=true&locale=es&theme=transparent&hide_border=true" alt="Estadísticas de leviivilla" />
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=leviivilla&show_icons=true&locale=es&theme=tokyonight&hide_border=false" alt="Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviivilla&layout=compact&theme=tokyonight&hide_border=false" alt="Langs" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<hr>
+<br />
 
-<h3 align="left">🤝 Conéctate conmigo:</h3>
-<p align="left">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leviivilla&theme=tokyonight&hide_border=false" alt="Streak" />
+</div>
+
+---
+
+## 🤝 Conectate conmigo
+<div align="center">
   <a href="https://fb.com/levi.villa" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/isaac_andriano" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
+  <a href="mailto:tu-correo@ejemplo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
