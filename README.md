@@ -1,10 +1,6 @@
-
-
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=280&section=header&text=Isaac%20Levi&fontSize=80&animation=fadeIn&desc=Ingeniería%20en%20Ciencias%20de%20la%20Computación%20|%20BUAP&descSize=20&fontAlignY=38&descAlignY=62" width="100%" alt="Banner Isaac Levi" />
-
-  <br />
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=leviivilla&label=Vistas%20del%20perfil&color=0e75b6&style=flat-square" alt="Vistas" />
